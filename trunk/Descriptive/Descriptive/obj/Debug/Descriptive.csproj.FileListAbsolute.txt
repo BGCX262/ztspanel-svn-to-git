@@ -1,0 +1,10 @@
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\Descriptive\bin\Debug\Descriptive.exe
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\Descriptive\bin\Debug\Descriptive.pdb
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\Descriptive\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\Descriptive\obj\Debug\Descriptive.exe
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\Descriptive\obj\Debug\Descriptive.pdb
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\Descriptive\Descriptive\obj\Debug\Descriptive.exe
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\Descriptive\Descriptive\obj\Debug\Descriptive.pdb
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\Descriptive\Descriptive\bin\Debug\Descriptive.exe
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\Descriptive\Descriptive\bin\Debug\Descriptive.pdb
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\Descriptive\Descriptive\obj\Debug\ResolveAssemblyReference.cache

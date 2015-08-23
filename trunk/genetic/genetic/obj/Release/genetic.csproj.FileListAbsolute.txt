@@ -1,0 +1,10 @@
+C:\Documents and Settings\richa keren\My Documents\genetic\genetic\bin\Release\genetic.exe
+C:\Documents and Settings\richa keren\My Documents\genetic\genetic\bin\Release\genetic.pdb
+C:\Documents and Settings\richa keren\My Documents\genetic\genetic\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\richa keren\My Documents\genetic\genetic\obj\Release\genetic.exe
+C:\Documents and Settings\richa keren\My Documents\genetic\genetic\obj\Release\genetic.pdb
+I:\genetic\genetic\bin\Release\genetic.exe
+I:\genetic\genetic\bin\Release\genetic.pdb
+I:\genetic\genetic\obj\Release\ResolveAssemblyReference.cache
+I:\genetic\genetic\obj\Release\genetic.exe
+I:\genetic\genetic\obj\Release\genetic.pdb

@@ -1,0 +1,20 @@
+C:\Documents and Settings\richa keren\My Documents\genetic\genetic\bin\Debug\genetic.exe
+C:\Documents and Settings\richa keren\My Documents\genetic\genetic\bin\Debug\genetic.pdb
+C:\Documents and Settings\richa keren\My Documents\genetic\genetic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\richa keren\My Documents\genetic\genetic\obj\Debug\genetic.exe
+C:\Documents and Settings\richa keren\My Documents\genetic\genetic\obj\Debug\genetic.pdb
+I:\genetic\genetic\obj\Debug\genetic.exe
+I:\genetic\genetic\obj\Debug\genetic.pdb
+I:\genetic\genetic\bin\Debug\genetic.exe
+I:\genetic\genetic\bin\Debug\genetic.pdb
+I:\genetic\genetic\obj\Debug\ResolveAssemblyReference.cache
+I:\ztspanel\ztspanel\genetic\genetic\obj\Debug\genetic.exe
+I:\ztspanel\ztspanel\genetic\genetic\obj\Debug\genetic.pdb
+D:\SKRIPSI\ZTS_PANEL\genetic\genetic\obj\Debug\genetic.exe
+D:\SKRIPSI\ZTS_PANEL\genetic\genetic\obj\Debug\genetic.pdb
+D:\SKRIPSI\ZTS_PANEL\genetic\genetic\bin\Debug\genetic.exe
+D:\SKRIPSI\ZTS_PANEL\genetic\genetic\bin\Debug\genetic.pdb
+D:\SKRIPSI\ZTS_PANEL\genetic\genetic\obj\Debug\ResolveAssemblyReference.cache
+I:\ztspanel\ztspanel\genetic\genetic\bin\Debug\genetic.exe
+I:\ztspanel\ztspanel\genetic\genetic\bin\Debug\genetic.pdb
+I:\ztspanel\ztspanel\genetic\genetic\obj\Debug\ResolveAssemblyReference.cache

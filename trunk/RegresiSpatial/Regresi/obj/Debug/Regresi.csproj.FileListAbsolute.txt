@@ -1,0 +1,15 @@
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\Regresi\bin\Debug\Regresi.exe
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\Regresi\bin\Debug\Regresi.pdb
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\Regresi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\Regresi\obj\Debug\Regresi.exe
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\Regresi\obj\Debug\Regresi.pdb
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\Regresi\Regresi\obj\Debug\Regresi.exe
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\Regresi\Regresi\obj\Debug\Regresi.pdb
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\Regresi\Regresi\bin\Debug\Regresi.exe
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\Regresi\Regresi\bin\Debug\Regresi.pdb
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\Regresi\Regresi\obj\Debug\ResolveAssemblyReference.cache
+D:\ztsPanel\RegresiSpatial\Regresi\obj\Debug\Regresi.exe
+D:\ztsPanel\RegresiSpatial\Regresi\obj\Debug\Regresi.pdb
+D:\ztsPanel\RegresiSpatial\Regresi\bin\Debug\Regresi.exe
+D:\ztsPanel\RegresiSpatial\Regresi\bin\Debug\Regresi.pdb
+D:\ztsPanel\RegresiSpatial\Regresi\obj\Debug\ResolveAssemblyReference.cache

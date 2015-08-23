@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ADE0E742-8508-4C4F-A07C-3F0550CF8C54}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>CIA</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MatrixLibrary, Version=1.0.3754.36321, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lapisan\lapisan\bin\Debug\MatrixLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ANFIS\PanelData.cs" />
+    <Compile Include="Data\Data on RAM\Exceptions.cs" />
+    <Compile Include="Data\Data on RAM\GroupComparer.cs" />
+    <Compile Include="Data\Data on RAM\GroupFinder.cs" />
+    <Compile Include="Data\Data on RAM\SeriesData.cs" />
+    <Compile Include="Data\Data on RAM\SeriesGroup.cs" />
+    <Compile Include="Data\Data on RAM\SeriesGroups.cs" />
+    <Compile Include="Data\Data on RAM\SeriesVariable.cs" />
+    <Compile Include="Data\Data on RAM\SeriesVariables.cs" />
+    <Compile Include="Data\Data on RAM\VariableComparer.cs" />
+    <Compile Include="Data\Data on RAM\VariableFinder.cs" />
+    <Compile Include="Data\Library\DoubleRange.cs" />
+    <Compile Include="Data\Library\ListWithOnChanged\Exceptions.cs" />
+    <Compile Include="Data\Library\ListWithOnChanged\ListWithOnChanged.cs" />
+    <Compile Include="GA\GA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GA\GA.Designer.cs">
+      <DependentUpon>GA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GMDH\GMDH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GMDH\GMDH.Designer.cs">
+      <DependentUpon>GMDH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Analysis\ANFIS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Analysis\ANFIS.Designer.cs">
+      <DependentUpon>ANFIS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Control\ComboPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\ComboPanel.Designer.cs">
+      <DependentUpon>ComboPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Control\DataEntryPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\DataEntryPanel.Designer.cs">
+      <DependentUpon>DataEntryPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Control\listPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\listPanel.Designer.cs">
+      <DependentUpon>listPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Control\listVariable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\listVariable.Designer.cs">
+      <DependentUpon>listVariable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Control\ValidatedTextbox\DecimalTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\ValidatedTextbox\NameTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\ValidatedTextbox\NumericTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\ValidatedTextbox\ValidatedNameTextboxCell.cs" />
+    <Compile Include="GUI\Control\ValidatedTextbox\ValidatedNameTextBoxEditingControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\ValidatedTextbox\ValidatedTextBoxCell.cs" />
+    <Compile Include="GUI\Control\ValidatedTextbox\ValidatedTextBoxEditingControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GUI\Dialog\AddPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Dialog\AddPanel.Designer.cs">
+      <DependentUpon>AddPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Dialog\AddVariable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Dialog\AddVariable.Designer.cs">
+      <DependentUpon>AddVariable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Form\DataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form\DataForm.Designer.cs">
+      <DependentUpon>DataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Control\GridData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\GridData.Designer.cs">
+      <DependentUpon>GridData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Control\gridPanelVariabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\gridPanelVariabel.Designer.cs">
+      <DependentUpon>gridPanelVariabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Control\tabDataView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\tabDataView.Designer.cs">
+      <DependentUpon>tabDataView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Form\WelcomeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form\WelcomeScreen.Designer.cs">
+      <DependentUpon>WelcomeScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Form\MDIForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form\MDIForm.Designer.cs">
+      <DependentUpon>MDIForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Dialog\CreateNewProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Dialog\CreateNewProject.Designer.cs">
+      <DependentUpon>CreateNewProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GA\GA.resx">
+      <DependentUpon>GA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GMDH\GMDH.resx">
+      <DependentUpon>GMDH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Analysis\ANFIS.resx">
+      <DependentUpon>ANFIS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Control\ComboPanel.resx">
+      <DependentUpon>ComboPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Control\DataEntryPanel.resx">
+      <DependentUpon>DataEntryPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Control\listPanel.resx">
+      <DependentUpon>listPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Control\listVariable.resx">
+      <DependentUpon>listVariable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Dialog\AddPanel.resx">
+      <DependentUpon>AddPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Dialog\AddVariable.resx">
+      <DependentUpon>AddVariable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form\DataForm.resx">
+      <DependentUpon>DataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Control\GridData.resx">
+      <DependentUpon>GridData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Control\gridPanelVariabel.resx">
+      <DependentUpon>gridPanelVariabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form\MDIForm.resx">
+      <DependentUpon>MDIForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Dialog\CreateNewProject.resx">
+      <DependentUpon>CreateNewProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Control\tabDataView.resx">
+      <DependentUpon>tabDataView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form\WelcomeScreen.resx">
+      <DependentUpon>WelcomeScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zftdoc.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

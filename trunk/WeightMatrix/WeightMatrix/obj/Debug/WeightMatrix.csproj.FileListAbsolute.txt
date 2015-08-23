@@ -1,0 +1,38 @@
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\WeightMatrix\bin\Debug\WeightMatrix.exe
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\WeightMatrix\bin\Debug\WeightMatrix.pdb
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\WeightMatrix\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\WeightMatrix\obj\Debug\WeightMatrix.Form1.resources
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\WeightMatrix\obj\Debug\WeightMatrix.Properties.Resources.resources
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\WeightMatrix\obj\Debug\WeightMatrix.csproj.GenerateResource.Cache
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\WeightMatrix\obj\Debug\WeightMatrix.exe
+C:\Documents and Settings\Luphy_cyg\Local Settings\Application Data\Temporary Projects\WeightMatrix\obj\Debug\WeightMatrix.pdb
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.exe
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.pdb
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\WeightMatrix\WeightMatrix\bin\Debug\WeightMatrix.exe
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\WeightMatrix\WeightMatrix\bin\Debug\WeightMatrix.pdb
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\WeightMatrix\WeightMatrix\obj\Debug\ResolveAssemblyReference.cache
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.Create_New_File.resources
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.Form1.resources
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.Properties.Resources.resources
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.csproj.GenerateResource.Cache
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\APLIKASI KECIL\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.Weight_Matrix.resources
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.exe
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.pdb
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\WeightMatrix\WeightMatrix\obj\Debug\ResolveAssemblyReference.cache
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.Create_New_File.resources
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.Form1.resources
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.Properties.Resources.resources
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.Weight_Matrix.resources
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.csproj.GenerateResource.Cache
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\WeightMatrix\WeightMatrix\bin\Debug\WeightMatrix.exe
+D:\SKRIPSIKU\BISMILLAH-NULIS-SKRIPSI\WeightMatrix\WeightMatrix\bin\Debug\WeightMatrix.pdb
+D:\ztsPanel\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.exe
+D:\ztsPanel\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.pdb
+D:\ztsPanel\WeightMatrix\WeightMatrix\bin\Debug\WeightMatrix.exe
+D:\ztsPanel\WeightMatrix\WeightMatrix\bin\Debug\WeightMatrix.pdb
+D:\ztsPanel\WeightMatrix\WeightMatrix\obj\Debug\ResolveAssemblyReference.cache
+D:\ztsPanel\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.Create_New_File.resources
+D:\ztsPanel\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.Form1.resources
+D:\ztsPanel\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.Properties.Resources.resources
+D:\ztsPanel\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.Weight_Matrix.resources
+D:\ztsPanel\WeightMatrix\WeightMatrix\obj\Debug\WeightMatrix.csproj.GenerateResource.Cache

@@ -1,0 +1,31 @@
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\fuzzyAnalysis\bin\Debug\fuzzyAnalysis.exe
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\fuzzyAnalysis\bin\Debug\fuzzyAnalysis.pdb
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\fuzzyAnalysis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.Control.FuzzySet.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.Form1.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.Properties.Resources.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.csproj.GenerateResource.Cache
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.exe
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.pdb
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.Control.Simulation.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.Control.Rule.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.Control.RuleItem.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.exe
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.pdb
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.exe
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.pdb
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\bin\Debug\fuzzyAnalysis.exe
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\bin\Debug\fuzzyAnalysis.pdb
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\obj\Debug\ResolveAssemblyReference.cache
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.Control.FuzzySet.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.Control.Rule.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.Control.RuleItem.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.Control.Simulation.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.Form1.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.NewVariable.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.Properties.Resources.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzyAnalysis - Copy - Copy\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.csproj.GenerateResource.Cache
+D:\SKRIPSI\My Dropbox\Juni10\formFuzzyAnalysis\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.exe
+D:\SKRIPSI\My Dropbox\Juni10\formFuzzyAnalysis\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.pdb
+D:\ztsPanel\formFuzzyAnalysis\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.exe
+D:\ztsPanel\formFuzzyAnalysis\fuzzyAnalysis\obj\Debug\fuzzyAnalysis.pdb

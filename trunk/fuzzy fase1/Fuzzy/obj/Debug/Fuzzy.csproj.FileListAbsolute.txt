@@ -1,0 +1,41 @@
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\bin\Debug\Fuzzy.exe
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\bin\Debug\Fuzzy.pdb
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Debug\Fuzzy.Properties.Resources.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Debug\Fuzzy.csproj.GenerateResource.Cache
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Debug\Fuzzy.exe
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Debug\Fuzzy.pdb
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Debug\Fuzzy.Control.ConfigurationUI.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Debug\Fuzzy.Control.RuleItemUI.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Debug\Fuzzy.Control.RuleUI.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Debug\Fuzzy.Control.Simulation.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Debug\Fuzzy.Control.Variable.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Debug\Fuzzy.Form1.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\obj\Debug\Fuzzy.exe
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\obj\Debug\Fuzzy.pdb
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\bin\Debug\Fuzzy.exe
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\bin\Debug\Fuzzy.pdb
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\obj\Debug\ResolveAssemblyReference.cache
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\obj\Debug\Fuzzy.Control.ConfigurationUI.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\obj\Debug\Fuzzy.Control.RuleItemUI.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\obj\Debug\Fuzzy.Control.RuleUI.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\obj\Debug\Fuzzy.Control.Simulation.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\obj\Debug\Fuzzy.Control.Variable.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\obj\Debug\Fuzzy.fuzzy.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\obj\Debug\Fuzzy.NewVariable.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\obj\Debug\Fuzzy.Properties.Resources.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy\Fuzzy\obj\Debug\Fuzzy.csproj.GenerateResource.Cache
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\obj\Debug\Fuzzy.exe
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\obj\Debug\Fuzzy.pdb
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\bin\Debug\Fuzzy.exe
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\bin\Debug\Fuzzy.pdb
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\obj\Debug\ResolveAssemblyReference.cache
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\obj\Debug\Fuzzy.Control.ConfigurationUI.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\obj\Debug\Fuzzy.Control.RuleItemUI.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\obj\Debug\Fuzzy.Control.RuleUI.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\obj\Debug\Fuzzy.Control.Simulation.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\obj\Debug\Fuzzy.Control.Variable.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\obj\Debug\Fuzzy.fuzzy.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\obj\Debug\Fuzzy.NewVariable.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\obj\Debug\Fuzzy.Properties.Resources.resources
+D:\SKRIPSI\My Dropbox\Juni10\fuzzy fase1\Fuzzy\obj\Debug\Fuzzy.csproj.GenerateResource.Cache

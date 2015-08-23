@@ -1,0 +1,13 @@
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\bin\Release\Fuzzy.exe
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\bin\Release\Fuzzy.pdb
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Release\ResolveAssemblyReference.cache
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Release\Fuzzy.Control.ConfigurationUI.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Release\Fuzzy.Control.RuleItemUI.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Release\Fuzzy.Control.RuleUI.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Release\Fuzzy.Control.Simulation.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Release\Fuzzy.Control.Variable.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Release\Fuzzy.Form1.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Release\Fuzzy.Properties.Resources.resources
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Release\Fuzzy.csproj.GenerateResource.Cache
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Release\Fuzzy.exe
+C:\Users\NURLIANA\AppData\Local\Temporary Projects\Fuzzy\obj\Release\Fuzzy.pdb

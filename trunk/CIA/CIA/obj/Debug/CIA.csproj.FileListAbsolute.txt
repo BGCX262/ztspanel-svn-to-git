@@ -1,0 +1,68 @@
+D:\University\Skripsi\Coding\CIA 2\CIA\bin\Debug\CIA.exe
+D:\University\Skripsi\Coding\CIA 2\CIA\bin\Debug\CIA.pdb
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\ResolveAssemblyReference.cache
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Analysis.ANFIS.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Control.ComboPanel.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Control.listPanel.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Control.listVariable.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Dialog.AddPanel.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Dialog.AddVariable.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.DataForm.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GridData.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.gridPanelVariabel.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.MDIForm.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.CreateNewProject.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.tabDataView.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.WelcomeScreen.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\CIA.csproj.GenerateResource.Cache
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\CIA.exe
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\CIA.pdb
+F:\Coding Eni\CIA 2\CIA\bin\Debug\CIA.exe
+F:\Coding Eni\CIA 2\CIA\bin\Debug\CIA.pdb
+F:\Coding Eni\CIA 2\CIA\obj\Debug\ResolveAssemblyReference.cache
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Analysis.ANFIS.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Control.ComboPanel.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Control.listPanel.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Control.listVariable.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Dialog.AddPanel.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Dialog.AddVariable.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.DataForm.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GMDH.GMDHanalysis.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GridData.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.gridPanelVariabel.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.MDIForm.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.CreateNewProject.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.tabDataView.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.WelcomeScreen.resources
+F:\Coding Eni\CIA 2\CIA\obj\Debug\CIA.csproj.GenerateResource.Cache
+F:\Coding Eni\CIA 2\CIA\obj\Debug\CIA.exe
+F:\Coding Eni\CIA 2\CIA\obj\Debug\CIA.pdb
+F:\Coding Eni\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Control.DataEntryPanel.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Control.DataEntryPanel.resources
+D:\University\Skripsi\Coding\CIA 2\CIA\bin\Debug\MatrixLibrary.dll
+D:\University\Skripsi\Coding\CIA 2\CIA\bin\Debug\MatrixLibrary.xml
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\CIA.exe
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\CIA.pdb
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\bin\Debug\CIA.exe
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\bin\Debug\CIA.pdb
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\bin\Debug\MatrixLibrary.xml
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Analysis.ANFIS.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Control.ComboPanel.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Control.DataEntryPanel.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Control.listPanel.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Control.listVariable.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Dialog.AddPanel.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GUI.Dialog.AddVariable.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.DataForm.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GridData.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.gridPanelVariabel.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.MDIForm.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.CreateNewProject.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.tabDataView.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.WelcomeScreen.resources
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\CIA.csproj.GenerateResource.Cache
+C:\Users\Rodiah\Documents\Visual Studio 2008\Projects\CIA 2\CIA\obj\Debug\WindowsFormsApplication1.GMDH.GMDH.resources
